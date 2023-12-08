@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reporting.BNB.Validation", "Reporting.BNB.Validation\Reporting.BNB.Validation.csproj", "{D071E047-3DF4-41C0-B4C5-63F06CDD7550}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reporting.BNB.XmlStructure", "Reporting.BNB.XmlStructure\Reporting.BNB.XmlStructure.csproj", "{29D6B8C5-4876-4F8E-B426-883846E74CA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D071E047-3DF4-41C0-B4C5-63F06CDD7550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D071E047-3DF4-41C0-B4C5-63F06CDD7550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D071E047-3DF4-41C0-B4C5-63F06CDD7550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D071E047-3DF4-41C0-B4C5-63F06CDD7550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D6B8C5-4876-4F8E-B426-883846E74CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D6B8C5-4876-4F8E-B426-883846E74CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D6B8C5-4876-4F8E-B426-883846E74CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D6B8C5-4876-4F8E-B426-883846E74CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E46C43EB-AF1A-4EC9-A569-3F148F9F0CB5}
+	EndGlobalSection
+EndGlobal
